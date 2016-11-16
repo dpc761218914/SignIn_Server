@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/controller/car.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/controller/holiday.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/controller/peccancy.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/controller/signin.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/controller/user.js" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
