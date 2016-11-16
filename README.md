@@ -1,5 +1,6 @@
 # SignIn_Server
 签到APP服务端
+博客：http://www.jianshu.com/p/feda0083161d
 
 ### 一、APP原型
 参考另一篇博客：https://my.oschina.net/u/2480757/blog/788578
